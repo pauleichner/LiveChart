@@ -5,6 +5,6 @@ LiveChart is a lightweight C++ chart visualization tool—currently a work in pr
 
 
 <video controls width="600">
-  <source src="./Demo.mp4" type="video/mp4">
+  <source src="Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
